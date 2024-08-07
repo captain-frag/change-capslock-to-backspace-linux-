@@ -1,7 +1,7 @@
 Run the following command
 
 ```
-curl https://raw.githubusercontent.com/hey-frag/change-capslock-to-backspace-linux-/main/caps-backspace.sh /etc/init.d/;
+curl https://raw.githubusercontent.com/hey-frag/change-capslock-to-backspace-linux-/main/caps-backspace.sh /etc/init.d/ > caps-backspace.sh;
 cd /etc/init.d/;
 chmod +x caps-backspace.sh
 ```
